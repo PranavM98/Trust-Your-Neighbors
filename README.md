@@ -5,6 +5,8 @@
 
 Official implementation of "Trust Your Neighbors: Multimodal Patient Retrieval for TBI Prognosis" published in IEEE Journal of Biomedical and Health Informatics.
 
+![Figure 1: Multimodal Retrieval Framework](Figures/fig1.png)
+
 ## Overview
 
 This repository contains the code for a novel multimodal AI approach to traumatic brain injury (TBI) prognosis that combines retrieval-augmented classification with example-based explainability. Our method leverages both clinical data and CT imaging to retrieve similar patient cases and improve prognostic predictions.
