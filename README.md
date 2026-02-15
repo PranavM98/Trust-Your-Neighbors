@@ -5,7 +5,7 @@
 
 Official implementation of "Trust Your Neighbors: Multimodal Patient Retrieval for TBI Prognosis" published in IEEE Journal of Biomedical and Health Informatics.
 
-![Figure 1: Multimodal Retrieval Framework](Figures/fig1.png)
+![Figure 1: Multimodal Retrieval Framework](Figures/Fig1.png)
 
 ## Overview
 
