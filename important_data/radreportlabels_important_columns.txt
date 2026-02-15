@@ -1,0 +1,16 @@
+#RADREPORTLABELS
+subarachnoid
+acute_subdural
+subacute_subdural
+chronic_subdural
+other_subdural
+mass_effect
+mass
+midline_shift
+edema
+contusion
+fracture
+diffuse_axonal_injury
+epidural
+herniation
+encephalomalacia

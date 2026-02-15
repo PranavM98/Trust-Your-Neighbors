@@ -1,0 +1,56 @@
+ALBUMIN_count
+ALBUMIN_max
+ALBUMIN_mean
+ALBUMIN_min
+ALT_count
+ALT_max
+ALT_mean
+ALT_min
+ANION GAP_count
+ANION GAP_max
+ANION GAP_mean
+ANION GAP_min
+APTT_count
+APTT_max
+APTT_mean
+APTT_min
+AST_count
+AST_max
+AST_mean
+AST_min
+CO2_count
+CO2_max
+CO2_mean
+CO2_min
+CREATININE_count
+CREATININE_max
+CREATININE_mean
+CREATININE_min
+GLUCOSE_count
+GLUCOSE_max
+GLUCOSE_mean
+GLUCOSE_min
+HEMATOCRIT_count
+HEMATOCRIT_max
+HEMATOCRIT_mean
+HEMATOCRIT_min
+BUN_count
+BUN_max
+BUN_mean
+BUN_min
+PROTHROMBIN-INR_count
+PROTHROMBIN-INR_max
+PROTHROMBIN-INR_mean
+PROTHROMBIN-INR_min
+PLT_count
+PLT_max
+PLT_mean
+PLT_min
+POTASSIUM_count
+POTASSIUM_max
+POTASSIUM_mean
+POTASSIUM_min
+SODIUM_count
+SODIUM_max
+SODIUM_mean
+SODIUM_min

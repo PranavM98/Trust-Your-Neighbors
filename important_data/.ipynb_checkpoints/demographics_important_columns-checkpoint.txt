@@ -1,0 +1,27 @@
+sex_label
+age_at_admission
+erreason_ALCOHOL INTOXICATION
+erreason_ALTERED MENTAL STATUS
+erreason_ASSAULT VICTIM
+erreason_CONCUSSION
+erreason_DIZZINESS
+erreason_DRUG / ALCOHOL ASSESSMENT
+erreason_FACIAL INJURY
+erreason_FACIAL LACERATION
+erreason_FALL
+erreason_GUN SHOT WOUND
+erreason_HEAD INJURY
+erreason_HEAD LACERATION
+erreason_HEADACHE
+erreason_INJURY
+erreason_LOSS OF CONSCIOUSNESS
+erreason_MEMORY LOSS
+erreason_MIGRAINE
+erreason_MOTOR VEHICLE CRASH
+erreason_MOTOR VEHICLE VS PEDESTRIAN
+erreason_MOTORCYCLE CRASH
+erreason_MOTORCYCLE VS PEDESTRIAN
+erreason_NECK INJURY
+erreason_NEUROLOGIC PROBLEM
+erreason_SEIZURES
+erreason_TRAUMA
