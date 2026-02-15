@@ -209,8 +209,7 @@ def merge_data(acc_num_list, args):
     """
     # Load modality-specific data
     base_path = (
-        "/storage/pm231-projects/Pro00103826 - TBI predictive model/"
-        "data_pipeline_v1/Results/folder_ER_data/MICCAI2025/"
+        "BASS PATH"
     )
     analytes = pd.read_csv(os.path.join(base_path, "analytes_dataframe.csv"))
     vitals = pd.read_csv(os.path.join(base_path, "vitals_dataframe.csv"))
