@@ -69,6 +69,7 @@ This script:
 
 ### 2. Retrieval-Augmented Classification
 
+The SLM code can be found here [SLM Code](https://github.com/PranavM98/TBI-Prognosis-with-SLM)!
 #### Training RPEC Model
 
 Train the Retrieval-augmented Prognostic Ensemble Classifier:
